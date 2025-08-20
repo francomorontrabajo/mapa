@@ -1,0 +1,11 @@
+div{
+    width: 100%;
+    max-width: 800px;
+    height: 600px;
+    margin: 0 auto;
+}
+
+svg{
+    width: 100%;
+    height: auto;
+}
